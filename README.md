@@ -36,7 +36,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 ### Assessment
 
-Final product will be assessed according to [this grading rubric](Leaflet_Grading_Rubric.pdf)
+Final product will be assessed according to [this grading rubric](https://docs.google.com/document/d/1kDNeT4a54ik_AZrHYN3LmVMqH0hDuiwbK2h5lHNxumQ/edit)
 
 
 ___
